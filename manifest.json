@@ -1,0 +1,13 @@
+{
+   "background": {
+      "scripts": [ "background.js" ]
+   },
+   "browser_action": {
+      "default_icon": "icon-24.png"
+   },
+   "description": "Open new tab with icloud notes",
+   "manifest_version": 2,
+   "name": "iCloud-Notes+",
+   "permissions": [ "tabs" ],
+   "version": "2.0.0"
+}
