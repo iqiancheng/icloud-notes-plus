@@ -5,9 +5,9 @@
    "browser_action": {
       "default_icon": "icon-24.png"
    },
-   "description": "Open new tab with icloud notes",
+   "description": "Open new tab with icloud notes. 苹果便签Chrome插件版",
    "manifest_version": 2,
-   "name": "iCloud-Notes+",
+   "name": "iCloud Notes+",
    "permissions": [ "tabs" ],
-   "version": "2.0.0"
+   "version": "2.1.425"
 }
